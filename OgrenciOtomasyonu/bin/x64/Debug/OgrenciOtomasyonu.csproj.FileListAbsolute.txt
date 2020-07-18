@@ -1,0 +1,16 @@
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\x64\Debug\OgrenciOtomasyonu.exe.config
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\x64\Debug\OgrenciOtomasyonu.exe
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\x64\Debug\OgrenciOtomasyonu.pdb
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.AnaSayfaForm.resources
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.frmKayitEkleme.resources
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.Properties.Resources.resources
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.exe
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.pdb
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.frmNotGirisi.resources
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.frmKayitlariListele.resources
+C:\Users\ismailgursoy\documents\visual studio 2012\Projects\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.frmKayitDuzenle.resources
+C:\Users\Nano\Desktop\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\x64\Debug\OgrenciOtomasyonu.exe.config
+C:\Users\Nano\Desktop\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.exe
+C:\Users\Nano\Desktop\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\x64\Debug\OgrenciOtomasyonu.pdb
